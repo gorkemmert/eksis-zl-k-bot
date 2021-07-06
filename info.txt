@@ -1,0 +1,5 @@
+ekşi sözlük  konu aratma - bilgileri çekme - dosyaya kaydetme   
+
+selenium kurmayı unutmayınız 
+firefox u veya kullandığınız tarayıcıyı güncelleyiniz.
+geckodriver.exe yi indirmeyı unutmayınız.
